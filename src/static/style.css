@@ -1,0 +1,10 @@
+
+
+.not-visible {
+    display: none;
+}   
+
+.carousel-inner > .item {
+    height: auto;
+}
+
